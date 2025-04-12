@@ -1,0 +1,23 @@
+{
+  "name": "useless-fact-app",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetarungupta/Useless-Fact-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetarungupta/Useless-Fact-App/issues"
+  },
+  "homepage": "https://github.com/thetarungupta/Useless-Fact-App#readme",
+  "description": "",
+  "dependencies": {
+    "@slack/bolt": "^4.2.1"
+  }
+}
