@@ -4,7 +4,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-     "start": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,7 @@
   "homepage": "https://github.com/thetarungupta/Useless-Fact-App#readme",
   "description": "",
   "dependencies": {
-    "@slack/bolt": "^4.2.1"
+    "@slack/bolt": "^4.2.1",
+    "dotenv": "^16.5.0"
   }
 }
